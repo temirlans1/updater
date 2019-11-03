@@ -1,5 +1,5 @@
 #!/bin/bash
-mkdir imageDataset
+mkdir imageDataSet
 git clone https://github.com/Margulan707/koramain.git
 ret_code=$?
 if [ $ret_code==0 ] 
