@@ -2,7 +2,7 @@ import subprocess
 import requests
 import json
 
-with open('./token.json', 'r') as f:
+with open('/home/pi/koraupdate/token.json', 'r') as f:
     token = json.load(f)
 
 auth_token = token['token']
