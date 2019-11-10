@@ -1,33 +1,32 @@
-2019-11-03 01:28:55,754 - INFO - Database connection closed in databaseMain.databaseInit
-2019-11-03 01:28:55,767 - INFO - Database connection closed in databaseMain.databaseInit
-2019-11-03 01:28:55,779 - INFO - Database connection closed in databaseMain.databaseInit
-2019-11-03 01:28:56,030 - INFO - Database connection closed in databaseMain.databaseInit
-2019-11-03 01:28:56,045 - INFO - Database connection closed in dbMotion.checkTable
-2019-11-03 01:28:56,059 - INFO - Database connection closed in dbActivity.checkTable
-2019-11-03 01:28:56,073 - INFO - Database connection closed in dbRecognition.checkTable
-2019-11-03 01:28:56,087 - INFO - Database connection closed in getEncodings.checkTable
-2019-11-03 01:28:56,100 - INFO - Database connection closed in getEncodings.checkTable
-2019-11-03 01:28:56,106 - DEBUG - Starting new HTTPS connection (1): www.kora.work:443
-2019-11-03 01:28:57,149 - DEBUG - https://www.kora.work:443 "GET /api/devices/000001/encodings/ HTTP/1.1" 200 1904
-2019-11-03 01:28:57,303 - INFO - Database connection closed in getEncodings.checkTable
-2019-11-03 01:28:57,313 - INFO - Record inserted successfully into encodingstable
-2019-11-03 01:28:57,314 - INFO - Database connection closed in getEncodings.refreshEncodings
-2019-11-03 01:28:57,314 - INFO - Activity Data sending
-2019-11-03 01:28:57,329 - INFO - Database connection closed in dbActivity.sendData
-2019-11-03 01:28:57,329 - INFO - Motion Data sending
-2019-11-03 01:28:57,348 - DEBUG - Starting new HTTPS connection (1): www.kora.work:443
-2019-11-03 01:28:58,194 - DEBUG - https://www.kora.work:443 "POST /api/motions/ HTTP/1.1" 200 20
-2019-11-03 01:28:58,236 - INFO - Record sent and deleted successfully from motiontable
-2019-11-03 01:28:58,237 - INFO - Database connection closed in dbMotion.sendData
-2019-11-03 01:28:58,238 - INFO - Checks Data sending
-2019-11-03 01:28:58,245 - INFO - Database connection closed in dbRecognition.checkTable
-2019-11-03 01:28:58,251 - INFO - Database connection closed in dbRecognition.sendData
-2019-11-03 01:28:58,256 - INFO - Database connection closed in dbActivity.checkTable
-2019-11-03 01:28:58,269 - INFO - Record inserted successfully into activitytable
-2019-11-03 01:28:58,270 - INFO - Database connection closed in dbActivity.insertData
-2019-11-03 01:29:01,044 - INFO - Database connection closed in dbRecognition.checkTable
-2019-11-03 01:29:01,091 - INFO - Record inserted successfully into rectable
-2019-11-03 01:29:01,092 - INFO - Database connection closed in dbRecognition.insertData
-2019-11-03 01:29:01,365 - INFO - Database connection closed in dbRecognition.checkTable
-2019-11-03 01:29:01,606 - INFO - Record inserted successfully into rectable
-2019-11-03 01:29:01,606 - INFO - Database connection closed in dbRecognition.insertData
+2019-11-10 22:50:26,159 - INFO - Database connection closed in databaseMain.databaseInit
+2019-11-10 22:50:26,248 - INFO - Database connection closed in dbMotion.checkTable
+2019-11-10 22:50:26,336 - INFO - Record inserted successfully into motiontable
+2019-11-10 22:50:26,337 - INFO - Database connection closed in dbMotion.insertData
+2019-11-10 22:50:26,346 - INFO - Database connection closed in dbMotion.checkTable
+2019-11-10 22:50:26,359 - INFO - Record inserted successfully into motiontable
+2019-11-10 22:50:26,359 - INFO - Database connection closed in dbMotion.insertData
+2019-11-10 22:50:26,366 - INFO - Database connection closed in databaseMain.databaseInit
+2019-11-10 22:50:26,374 - INFO - Database connection closed in databaseMain.databaseInit
+2019-11-10 22:50:26,379 - INFO - Database connection closed in databaseMain.databaseInit
+2019-11-10 22:50:26,385 - INFO - Database connection closed in dbMotion.checkTable
+2019-11-10 22:50:26,390 - INFO - Database connection closed in dbActivity.checkTable
+2019-11-10 22:50:26,395 - INFO - Database connection closed in dbRecognition.checkTable
+2019-11-10 22:50:26,400 - INFO - Database connection closed in getEncodings.checkTable
+2019-11-10 22:50:26,405 - INFO - Database connection closed in getEncodings.checkTable
+2019-11-10 22:50:26,408 - DEBUG - Starting new HTTPS connection (1): www.kora.work:443
+2019-11-10 22:50:27,668 - DEBUG - https://www.kora.work:443 "GET /api/devices/000011/encodings/ HTTP/1.1" 200 27536
+2019-11-10 22:50:28,316 - INFO - Database connection closed in getEncodings.checkTable
+2019-11-10 22:50:28,405 - INFO - Record inserted successfully into encodingstable
+2019-11-10 22:50:28,416 - INFO - Record inserted successfully into encodingstable
+2019-11-10 22:50:28,427 - INFO - Record inserted successfully into encodingstable
+2019-11-10 22:50:28,439 - INFO - Record inserted successfully into encodingstable
+2019-11-10 22:50:28,450 - INFO - Record inserted successfully into encodingstable
+2019-11-10 22:50:28,461 - INFO - Record inserted successfully into encodingstable
+2019-11-10 22:50:28,473 - INFO - Record inserted successfully into encodingstable
+2019-11-10 22:50:28,484 - INFO - Record inserted successfully into encodingstable
+2019-11-10 22:50:28,495 - INFO - Record inserted successfully into encodingstable
+2019-11-10 22:50:28,506 - INFO - Record inserted successfully into encodingstable
+2019-11-10 22:50:28,517 - INFO - Record inserted successfully into encodingstable
+2019-11-10 22:50:28,528 - INFO - Record inserted successfully into encodingstable
+2019-11-10 22:50:28,540 - INFO - Record inserted successfully into encodingstable
+2019-11-10 22:50:28,541 - INFO - Database connection closed in getEncodings.refreshEncodings

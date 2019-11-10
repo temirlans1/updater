@@ -3,7 +3,7 @@ import requests
 import json
 import time 
 import os 
-with open('/home/pi/koraupdate/token.json', 'r') as f:
+with open('./token.json', 'r') as f:
     token = json.load(f)
 
 auth_token = token['token']
